@@ -1,0 +1,3 @@
+var exec = function(command) {
+  return webpplExec.exec(command);
+};
